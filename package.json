@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/netbanners/xoalt-SDK-android#readme",
   "publishConfig": {
-  "@AlexandrKol:registry": "https://npm.pkg.github.com"
+  "AlexandrKol@github.com:registry": "https://npm.pkg.github.com"
 }
 }
