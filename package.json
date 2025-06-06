@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/netbanners/xoalt-SDK-android/issues"
   },
-  "homepage": "https://github.com/netbanners/xoalt-SDK-android#readme"
+  "homepage": "https://github.com/netbanners/xoalt-SDK-android#readme",
+  "publishConfig": {
+  "@AlexandrKol:registry": "https://npm.pkg.github.com"
+}
 }
