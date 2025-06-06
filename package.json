@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/netbanners/xoalt-SDK-android.git"
+    "url": "git+https://github.com/AlexandrKol/package-1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/netbanners/xoalt-SDK-android/issues"
+    "url": "https://github.com/AlexandrKol/package-1/issues"
   },
-  "homepage": "https://github.com/netbanners/xoalt-SDK-android#readme",
+  "homepage": "https://github.com/AlexandrKol/package-1#readme",
   "publishConfig": {
   "AlexandrKol@github.com:registry": "https://npm.pkg.github.com"
 }
